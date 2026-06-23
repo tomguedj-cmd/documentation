@@ -84,7 +84,7 @@ But they will not appear in filters and do not support 1-click visualizations.
 
 ### Refresh mapping
 
-If you find that many of the fields you are interested in exploring aren't mapped, you can refresh your mapping via the navigation menu. Click [<i class="li li-gear"></i> Settings> General settings > Refresh mapping](https://app.logz.io/#/dashboard/settings/general).
+If you find that many of the fields you are interested in exploring aren't mapped, you can refresh your mapping via the navigation menu. Click [<i class="li li-gear"></i> Data Hub > Field mappings > Refresh Mappings](https://app.logz.io/360/data-configuration/field-mappings).
 
 
 ### Add specific fields to your default mapping
@@ -94,7 +94,7 @@ Instead of refreshing the mapping in bulk, you can add specific fields to your d
 ### Explicitly map a field 
 
 To manually edit a field mapping,
-Select [Data Hub > Field mappings](https://app.logz.io/#/dashboard/tools/field-mapping)
+Select [Data Hub > Field mappings](https://app.logz.io/360/data-configuration/field-mappings)
 from the navigation menu. 
 
 To change the field mapping type, hover over the field, click **edit** <i class="li li-pencil"></i>, make your changes, and click **Save**.
